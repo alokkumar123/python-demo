@@ -11,5 +11,5 @@ print(list1) # print all the elements in list
 
 print(list1[2:4]) # print elements from index 2 to 4rth element of the list
 
-list1[1]=7000
+list1[1]=8000
 print("updated list=",list1) # replace the 3st index element  with 7000
